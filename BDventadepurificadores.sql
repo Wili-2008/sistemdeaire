@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS BDventadepurificadores;
-CREATE DATABASE BDventadepurificadores;
-USE BDventadepurificadores;
+DROP DATABASE IF EXISTS bdventadepurificadores;
+CREATE DATABASE bdventadepurificadores;
+USE bdventadepurificadores;
 DROP TABLE IF EXISTS PERMISO;
 CREATE TABLE PERMISO(
 ID INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
